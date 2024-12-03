@@ -1,0 +1,3 @@
+[submodule "jud"]
+	path = jud
+	url = https://github.com/NityaMulpuri/jud.git
